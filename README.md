@@ -1,6 +1,6 @@
 # tket-workshop
 
-２０２2年02月１5日　＠connpass
+２０２２年０２月１５日　＠connpass
 
 TBA
 
