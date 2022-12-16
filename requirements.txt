@@ -1,5 +1,6 @@
 pytket
 pytket-qiskit
 pytket-braket
+pytket-qsharp
 pylatexenc
 matplotlib
