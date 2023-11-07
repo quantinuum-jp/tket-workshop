@@ -1,4 +1,4 @@
 # tket-workshop
 
-materialsフォルダーにTKETハンズオンスクリプトがございます。　　
+materialsフォルダーにTKETハンズオンスクリプトがございます。  
 ぜひTKETをお試ししてみてください。
